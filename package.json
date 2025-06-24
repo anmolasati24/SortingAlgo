@@ -1,0 +1,12 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "https://sorting-algorithm-visualizer-monk0707.netlify.app <br /> 1.Web app for visualizing different sorting algorithms using HTML, CSS,and Javascript.<br /> 2.Implemented Bubble Sort, Insertion Sort, Selection Sort, Merge Sort and Quick Sort and also displayed their time complexities and total run time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
