@@ -1,12 +1,12 @@
 {
   "name": "sorting",
   "version": "1.0.0",
-  "description": https://sorting-algo-roan.vercel.app/ <br /> 1.Web app for visualizing different sorting algorithms using HTML, CSS,and Javascript.<br /> 2.Implemented Bubble Sort, Insertion Sort, Selection Sort, Merge Sort and Quick Sort and also displayed their time complexities and total run time.",
+  "description": "https://sorting-algo-roan.vercel.app/ | Web app for visualizing different sorting algorithms using HTML, CSS, and JavaScript. Implemented Bubble Sort, Insertion Sort, Selection Sort, Merge Sort and Quick Sort with time complexities and total run time.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["sorting", "visualization", "algorithms", "javascript"],
   "author": "",
   "license": "ISC"
 }
